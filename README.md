@@ -1,5 +1,5 @@
 #Welcome to JS Workshop Day One !!
-
+#Colin Osborn
 ##Outline for Monday 9/14
 - Introductions
 - What is JavaScript, and why should I learn it?
